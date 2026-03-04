@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>🚀 CodePilotes Technologies</h1>
+  <h1> CODE PILOTES </h1>
   <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4285F4&center=true&vCenter=true&width=435&lines=DevSecOps+Experts;AWS+EKS+Specialists;Terraform+Automation;2026+Batch+Coaching" alt="Typing SVG" />
   </p>
